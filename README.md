@@ -1,7 +1,7 @@
 🌟 Senior DevOps Engineer | Cloud Enthusiast | Automation Advocate 🌟
 
 🔧 About Me:
-Passionate and experienced DevOps Engineer with over 10 years in the IT industry. Specialized in automating infrastructure, optimizing CI/CD pipelines, and ensuring seamless deployment processes in cloud environments. Committed to bridging the gap between development and operations for faster and more reliable software delivery.
+Specialized in automating infrastructure, optimizing CI/CD pipelines, and ensuring seamless deployment processes in cloud environments. Committed to bridging the gap between development and operations for faster and more reliable software delivery.
 
 🚀 Skills:
 
